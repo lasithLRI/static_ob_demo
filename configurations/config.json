@@ -20,7 +20,7 @@
       "name": "Global Asset Trust",
       "image": "/static_ob_demo_app/resources/assets/images/logos/global_asset_trust_logo.png",
       "currency": "GBP",
-      "color":"rgba(255, 185, 97, 0.6)",
+      "color":"#27ae60",
       "border":"rgba(255, 185, 97, 1)"
     },
     {

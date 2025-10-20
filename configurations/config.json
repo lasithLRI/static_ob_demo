@@ -10,7 +10,7 @@
   },
   "banks": [
     {
-      "name": "Ascend Global Bank",
+      "name": "eee Global Bank",
       "image": "/static_ob_demo_app/resources/assets/images/logos/assend_global_bank_logo.png",
       "currency": "GBP",
       "color":"rgba(255,135,110,0.6)",
